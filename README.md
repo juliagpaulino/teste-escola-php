@@ -55,7 +55,7 @@ DB_HOST=database       # (altere de 127.0.0.1 para 'database')
 DB_PORT=3306
 DB_DATABASE=laravel
 DB_USERNAME=laravel    # (substitua 'root' por 'laravel')
-DB_PASSWORD=laravel    # (adicione a senha)
+DB_PASSWORD=laravel    # (adicione a senha laravel)
 ```
 
 Em seguida, gere a chave da aplicação e configure o banco:
